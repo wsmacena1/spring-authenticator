@@ -1,4 +1,4 @@
-# Spring Authenticator Server
+# Spring Authenticator Server 💻
 
 Projeto desenvolvido com as tecnologias:
 
